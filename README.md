@@ -294,4 +294,4 @@ MIT License © 2026
 
 如有问题或建议，欢迎扫码添加微信交流：
 
-<img src="wechat-qr-final.jpg" alt="微信二维码" width="200" />
+<img src="wechat-qr.png" alt="微信二维码" width="200" />
