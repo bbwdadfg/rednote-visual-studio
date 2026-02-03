@@ -3,8 +3,6 @@
 > rednote图文笔记工作室 - 自动撰写小红书笔记、生成多主题卡片、**AI智能美化**、可选自动发布的专业工具
 > 当前版本新增了**AI生图美化功能**，并对渲染脚本和样式系统做了完整重构，感谢 Cursor 的辅助开发 🙌
 
-**📌 项目来源**：本项目基于 [comeonzhj/Auto-Redbook-Skills](https://github.com/comeonzhj/Auto-Redbook-Skills) 进行重构和功能增强
-
 ### 🔄 与原项目的主要差异
 
 - **🎨 新增AI生图功能**：集成Replicate API，支持AI美化生成的卡片图片
@@ -284,11 +282,16 @@ rednote-visual-studio/
 - [Marked](https://marked.js.org/) - Markdown 解析
 - [xhs](https://github.com/ReaJason/xhs) - 小红书 API 客户端
 
-### 开发工具
-- **Cursor** - 本次重构过程中提供了极大帮助 ❤️
-
 ---
 
 ## 📄 License
 
 MIT License © 2026
+
+---
+
+## 📱 联系作者
+
+如有问题或建议，欢迎扫码添加微信交流：
+
+<img src="wechat-qr.jpg" alt="微信二维码" width="200" />
