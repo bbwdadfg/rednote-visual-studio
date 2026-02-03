@@ -29,20 +29,24 @@
 
 ---
 
-## 🖼 主题效果示例
+## 🖼 AI美化效果展示
 
 > 所有示例均为 1080×1440px，小红书推荐 3:4 比例
-> 更多示例去 [demo](/demos) 中查看  
+> 所有示例均为 1080×1440px，小红书推荐 3:4 比例
 
-|||
-|---|---|
-|![Playful Geometric](demos/playful-geometric/card_1.png)|![Retro](demos/retro/card_1.png)|
-|![Sketch](demos/Sketch/card_1.png)|![Terminal](demos/terminal/card_1.png)|
+### 原图 vs AI美化对比
 
-### Auto-fit 模式示例（自动缩放）
+| 原始渲染图 | AI美化后 |
+|-----------|----------|
+| ![原图1](demos/ai-enhancement/card_1.png) | ![美化图1](demos/ai-enhancement/card_1_enhanced.png) |
+| ![原图2](demos/ai-enhancement/card_2.png) | ![美化图2](demos/ai-enhancement/card_2_enhanced.png) |
 
-![Auto Fit](demos/auto-fit/card_1.png)
+### 成品效果展示
 
+| 最终效果图 |
+|-----------|
+| ![成品效果1](demos/ai-enhancement/final-result-1.jpg) |
+| ![成品效果2](demos/ai-enhancement/final-result-2.png) |
 ---
 
 ## 🚀 使用方式总览
