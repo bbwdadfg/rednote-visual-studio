@@ -42,9 +42,7 @@
 
 ### 成品效果展示
 
-| 最终效果图1 | 最终效果图2 |
-|-----------|-----------|
-| ![成品效果1](demos/ai-enhancement/final-result-1.jpg) | ![成品效果2](demos/ai-enhancement/final-result-2.png) |
+![成品效果](demos/ai-enhancement/final-result-2.png)
 ---
 
 ## 🚀 使用方式总览
