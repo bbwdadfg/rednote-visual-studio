@@ -91,3 +91,4 @@ quality_report.txt
 !assets/**/*.png
 !assets/**/*.jpg
 !assets/**/*.jpeg
+!wechat-qr.png
