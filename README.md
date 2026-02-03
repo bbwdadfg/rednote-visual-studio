@@ -1,6 +1,9 @@
 ## 📕 rednote-visual-studio
 
-> rednote图文笔记工作室 - 自动撰写小红书笔记、生成多主题卡片、**AI智能美化**、可选自动发布的专业工具
+> **AI Agent Skill** - rednote图文笔记工作室 - 自动撰写小红书笔记、生成多主题卡片、**AI智能美化**、可选自动发布的专业工具
+>
+> 🤖 **支持AI助手集成**：兼容 Claude、Alma、TRAE 等支持 Skills 的AI客户端，可通过对话直接调用功能
+>
 > 当前版本新增了**AI生图美化功能**，并对渲染脚本和样式系统做了完整重构，基于 comeonzhj/Auto-Redbook-Skills 原始版本的核心功能基础进行开发
 
 ### 🔄 与原项目的主要差异
