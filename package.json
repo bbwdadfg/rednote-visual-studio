@@ -1,0 +1,31 @@
+{
+  "name": "rednote-visual-studio",
+  "version": "2.0.0",
+  "description": "rednote图文笔记工作室 - 支持AI生图美化、多种排版样式和智能分页的小红书笔记素材创作工具 (基于 comeonzhj/Auto-Redbook-Skills 增强)",
+  "main": "scripts/render_xhs.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbwdadfg/rednote-visual-studio.git"
+  },
+  "scripts": {
+    "render": "node scripts/render_xhs.js",
+    "install-browsers": "npx playwright install chromium"
+  },
+  "keywords": [
+    "xiaohongshu",
+    "rednote",
+    "markdown",
+    "image-generation",
+    "ai-image-enhancement",
+    "social-media",
+    "visual-studio",
+    "replicate-api"
+  ],
+  "author": "bbwdadfg",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^11.0.0",
+    "yaml": "^2.3.0",
+    "playwright": "^1.40.0"
+  }
+}
